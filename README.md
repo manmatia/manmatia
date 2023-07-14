@@ -31,6 +31,6 @@ Durante mi tiempo en SoyHenry, he completado exitosamente los checkpoints y home
 ¡Estoy emocionado por seguir aprendiendo y creciendo como desarrollador! Si tienes alguna pregunta o simplemente quieres charlar sobre tecnología, ¡no dudes en contactarme!
 
 - LinkedIn: [Matias Graneros](https://www.linkedin.com/in/matias-graneros-86605388/)
-- Email: [manmatia@gmail.com](manmatia@hotmail.com)
+- Email: [manmatia@gmail.com](mailto:tucorreo@gmail.com)
 
 ¡Gracias por visitar mi perfil de GitHub! 😄
