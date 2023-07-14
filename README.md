@@ -20,8 +20,7 @@
 ## Proyectos Destacados
 
 - [Proyecto videogame-individual](https://github.com/manmatia/ProyectoIntegrador):proyecto donde integramos la mayoria de las tecnologias aprendidas.
-- [Proyecto 2](link_al_proyecto): Breve descripción del proyecto y su relevancia.
-- [Proyecto 3](link_al_proyecto): Breve descripción del proyecto y su relevancia.
+
 
 ## Checkpoints y Homeworks
 
