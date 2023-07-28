@@ -4,6 +4,12 @@
 
 ¡Hola! Soy un entusiasta de la programación y actualmente estoy estudiando para convertirme en un desarrollador Full Stack en [SoyHenry](https://www.soyhenry.com/). Tengo 35 años y he estado dedicando los últimos 6 meses a aprender y mejorar mis habilidades en diferentes tecnologías.
 
+Busco un ambiente de trabajo positivo, donde la comunicación y la interacción personal sean valoradas. Estoy dispuesto a enfrentar desafíos con flexibilidad y autonomía, aportando ideas e innovación al equipo.
+
+Espero contribuir activamente en el desarrollo de nuevas funcionalidades, apoyando las metodologías ágiles y proponiendo soluciones para mejorar procesos automatizados.
+
+Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabilidades a medida que demuestre mis habilidades. Valorando la buena predisposición hacia las personas, deseo formar parte de un ambiente que fomente el aprendizaje y el éxito colectivo.
+
 ## Tecnologías
 
 - JavaScript
