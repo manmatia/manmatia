@@ -26,13 +26,6 @@ Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabi
 ## Proyectos Destacados
 
 - [Proyecto videogame-individual](https://github.com/manmatia/ProyectoIntegrador):proyecto donde integramos la mayoria de las tecnologias aprendidas.- JavaScript
-- CSS
-- AJAX
-- React
-- Redux
-- Node.js
-- SQL
-- Sequelize
 - [E-commerce "PUEBLA DEL MAR"](https://github.com/PuebladelMar/SoyPuebla): Mi rol abarco tanto el desarrollo en el front-end como en el back-end de la plataforma. En el front-end, utilice tecnologías como React, Vite, Redux y Material-UI para crear una experiencia de usuario atractiva y fluida. Mientras tanto, en el backend, trabaje con JavaScript, Sequelize y SQL para garantizar la funcionalidad y la gestión eficiente de los datos.
 
 ## Checkpoints y Homeworks
