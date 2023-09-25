@@ -25,9 +25,9 @@ Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabi
 
 ## Proyectos Destacados
 
-- [Proyecto videogame-individual](https://github.com/manmatia/ProyectoIntegrador):proyecto donde integramos la mayoria de las tecnologias aprendidas.- JavaScript
+- [Portfolio "Matias Graneros"](https://portfolio-theta-sage-69.vercel.app/) En esta oportunidad utilice Vite  para hacer el front, utilice Mui para que tenga un diseño atractivo, Aos para que tenga animaciones al hacer scroll entre otros. te invito a que lo mires y obvio me des te feedback para mejorar 😀.
 - [E-commerce "PUEBLA DEL MAR"](https://github.com/PuebladelMar/SoyPuebla): Mi rol abarco tanto el desarrollo en el front-end como en el back-end de la plataforma. En el front-end, utilice tecnologías como React, Vite, Redux y Material-UI para crear una experiencia de usuario atractiva y fluida. Mientras tanto, en el backend, trabaje con JavaScript, Sequelize y SQL para garantizar la funcionalidad y la gestión eficiente de los datos.
-
+- [Proyecto videogame-individual](https://github.com/manmatia/ProyectoIntegrador):proyecto donde integramos la mayoria de las tecnologias aprendidas.- JavaScript
 ## Checkpoints y Homeworks
 
 Durante mi tiempo en SoyHenry, he completado exitosamente los checkpoints y homeworks de los 4 módulos. Estos proyectos y evaluaciones me han permitido aplicar mis conocimientos y desarrollar habilidades en diferentes áreas.
