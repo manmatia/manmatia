@@ -2,7 +2,7 @@
 
 ## Sobre mí
 
-¡Hola! Soy un entusiasta de la programación y actualmente estoy estudiando para convertirme en un desarrollador Full Stack en [SoyHenry](https://www.soyhenry.com/). Tengo 35 años y he estado dedicando los últimos 6 meses a aprender y mejorar mis habilidades en diferentes tecnologías.
+¡Hola! Soy un entusiasta de la programación y actualmente estoy estudiando para convertirme en un desarrollador Full Stack en [SoyHenry](https://www.soyhenry.com/). Tengo 35 años y he estado dedicandoel ultimo año a aprender y mejorar mis habilidades en diferentes tecnologías.
 
 Busco un ambiente de trabajo positivo, donde la comunicación y la interacción personal sean valoradas. Estoy dispuesto a enfrentar desafíos con flexibilidad y autonomía, aportando ideas e innovación al equipo.
 
