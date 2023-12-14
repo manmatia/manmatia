@@ -22,6 +22,8 @@ Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabi
 - Sequelize
 - React Native
 - TypeScript
+- Next JS
+- Tailwind
 
 ## Proyectos Destacados
 
