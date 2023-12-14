@@ -1,4 +1,4 @@
-# ¡Hola, soy [Matias Graneros ]! 👋s
+# ¡Hola, soy [Matias Graneros ]! 👋
 
 ## Sobre mí
 
