@@ -1,6 +1,6 @@
 # ¡Hola, soy [Matias Graneros ]! 👋
 
-## Sobre mí 
+## Sobre mí
 
 ¡Hola! Soy un entusiasta de la programación y actualmente estoy estudiando para convertirme en un desarrollador Full Stack en [SoyHenry](https://www.soyhenry.com/). Tengo 35 años y he estado dedicandoel ultimo año a aprender y mejorar mis habilidades en diferentes tecnologías.
 
