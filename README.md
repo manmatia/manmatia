@@ -10,7 +10,7 @@ Espero contribuir activamente en el desarrollo de nuevas funcionalidades, apoyan
 
 Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabilidades a medida que demuestre mis habilidades. Valorando la buena predisposición hacia las personas, deseo formar parte de un ambiente que fomente el aprendizaje y el éxito colectivo.
 
-## Tecnologíasr
+## Tecnologías
 
 - JavaScript
 - CSS
