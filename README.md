@@ -13,6 +13,8 @@ Mi meta es ser parte de un equipo en constante crecimiento, asumiendo responsabi
 ## Tecnologías
 
 - JavaScript
+- BrigthScript
+- Roku
 - CSS
 - AJAX
 - React
